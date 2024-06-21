@@ -12,8 +12,10 @@
 - Iniciei um curso de Astronomia;
 - Cursei em modalidade EAD cursos de Matemática, Física, Biologia, Química, Gramática, Redação, Espanhol, Hebraico, Francês;
 - Cursos de Design de Sobrancelha;
-- Cursos de Culinária.
-- Programação de Jogos.
+- Cursos de Culinária;
+- Programação de Jogos;
+- Lidando com o público;
+- Administração.
 
 ## Projetos
 - Atualmente estou desenvolvendo diversos jogos e projetos nas aulas de Tecnologia da 2ª Série do Ensino Médio como:
