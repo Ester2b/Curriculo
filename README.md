@@ -8,7 +8,7 @@
 - Desenvolver e aprimorar meus conhecimentos na área de Tecnologia
 
 ## Formação Acadêmica
-- Atualmente estou cursando a 2ª Série do Ensino Média;
+- Atualmente estou cursando a 2ª Série do Ensino Médio;
 - Iniciei um curso de Astronomia;
 - Cursei em modalidade EAD cursos de Matemática, Física, Biologia, Química, Gramática, Redação, Espanhol, Hebraico, Francês;
 - Cursos de Design de Sobrancelha;
