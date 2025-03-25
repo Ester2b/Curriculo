@@ -15,20 +15,33 @@
 - Cursos de Culinária;
 - Programação de Jogos;
 - Lidando com o público;
-- Administração.
+- Administração;
+- Curso de interpretação de texto (intermediário);
+- Curso Redação e leitura;
+- Fotografia.
+
+## Experiências
+ - Javascript;
+ - HTML;
+ - CSS;
+ - P5.js;
+ - Java;
+ - Design tecnologia.
 
 ## Projetos
-- Atualmente estou desenvolvendo diversos jogos e projetos nas aulas de Tecnologia da 2ª Série do Ensino Médio como:
-   - Jogo Ping Pong;
+- Aqui esrá uma lista atualizada dos meus projetos dos quais realizei em 2024 a 2025:
+  - Jogo Ping Pong;
   - Jogo de Carta;
-  - teste Psicológico
-  - Recomendador de Filme.
+  - teste Psicológico;
+  - Recomendador de Filme;
+  - lógica de programação: criando arte interativa com P5.js
 
 ## Experiência Profissional
 - Até o momento apenas estudo.
 
 ## Idioma
 - Inglês;
+- português;
 - Espanhol;
 - Francês;
 - Hebraico.
