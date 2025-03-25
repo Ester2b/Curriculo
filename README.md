@@ -10,7 +10,7 @@
 ## Formação Acadêmica
 - Atualmente estou cursando a 3ª Série do Ensino Médio;
 - Iniciei um curso de Astronomia;
-- Cursei em modalidade EAD cursos de Matemática, Física, Biologia, Química, Gramática, Redação, Espanhol, Hebraico, Francês;
+- Cursei em modalidade EAD cursos de Matemática, Física, Biologia, Química, Gramática, Redação, Espanhol, Hebraico, inglês, Francês;
 - Cursos de Design de Sobrancelha;
 - Cursos de Culinária;
 - Programação de Jogos;
