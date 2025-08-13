@@ -8,6 +8,8 @@
 - Desenvolver e aprimorar meus conhecimentos na área de Tecnologia
 
 ## Formação Acadêmica
+- Cursando faculdade de Bacharelado de tecnologia e informação-UNIVESP;
+- Curso profissionalizante: Auxíliar de creche;
 - Atualmente estou cursando a 3ª Série do Ensino Médio;
 - Iniciei um curso de Astronomia;
 - Cursei em modalidade EAD cursos de Matemática, Física, Biologia, Química, Gramática, Redação, Espanhol, Hebraico, inglês, Francês;
@@ -34,7 +36,11 @@
   - Jogo de Carta;
   - teste Psicológico;
   - Recomendador de Filme;
-  - lógica de programação: criando arte interativa com P5.js
+  - Site de adoção de animais;
+  - Site de música;
+  - Site religioso;
+  - lógica de programação: criando arte interativa com P5.js;
+  - Sites diversos.
 
 ## Experiência Profissional
 - Até o momento apenas estudo.
